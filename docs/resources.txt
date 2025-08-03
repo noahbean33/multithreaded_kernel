@@ -1,3 +1,9 @@
+Websites: 
+https://wiki.osdev.org/Expanded_Main_Page
+
+https://www.ctyme.com/rbrown.htm
+
+Books:
 Arpaci-Dusseau, R. H., & Arpaci-Dusseau, A. C. (2023). Operating Systems: Three Easy Pieces. Arpaci-Dusseau Books.
 
 Bryant, R. E., & O'Hallaron, D. R. (2016). Computer Systems: A Programmer's Perspective (3rd ed.). Pearson.

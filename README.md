@@ -56,4 +56,3 @@
   - Kernel panic handler
   - Caps lock and character case handling
   - Backspace and basic terminal editing
-

@@ -2,7 +2,7 @@ ENTRY(_start)
 OUTPUT_FORMAT(binary)
 SECTIONS
 {
-    . = 1M;
+    . = 0x400000;
     .text : ALIGN(4096)
     {
         *(.text)
@@ -12,7 +12,7 @@ SECTIONS
     {
         *(.asm)
     }
-
+    
     .rodata : ALIGN(4096)
     {
         *(.rodata)
@@ -28,4 +28,5 @@ SECTIONS
         *(COMMON)
         *(.bss)
     }
+
 }
